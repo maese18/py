@@ -1,0 +1,1 @@
+Source of this example is to be found [here](https://www.tensorflow.org/alpha/tutorials/keras/basic_classification)
